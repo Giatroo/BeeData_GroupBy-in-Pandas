@@ -1,4 +1,4 @@
-## Uso e aplicações da função pandas.groupby
+## Uso e aplicações da função pandas.DataFrame.groupby
 
 ![Visits Badge](https://badges.pufler.dev/visits/Giatroo/BeeData_GroupBy-in-Pandas)
 ![Last update](https://img.shields.io/github/last-commit/Giatroo/BeeData_GroupBy-in-Pandas)
